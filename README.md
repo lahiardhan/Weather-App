@@ -2,7 +2,7 @@
 
 Hi Everyone!
 
-Here I want to make a weather forecasting website using the technology below :
+So in this part I want to make a weather forecasting website using the technology below :
 - React JS
 - Axios
 - Bootstrap

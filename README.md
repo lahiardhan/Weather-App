@@ -8,4 +8,5 @@ So in this part I want to make a weather forecasting website using the technolog
 - Bootstrap
 - Weather API
 
+<br>
 Here's the preview

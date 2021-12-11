@@ -7,3 +7,5 @@ So in this part I want to make a weather forecasting website using the technolog
 - Axios
 - Bootstrap
 - Weather API
+
+Here's the preview

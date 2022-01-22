@@ -12,4 +12,3 @@ Di projek kali ini saya telah sebuah website application yaitu website ramalan c
 - React Hooks
 
 Berikut adalah preview tampilan dari website forecasting yang telah selesai saya buat.
-

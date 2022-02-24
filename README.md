@@ -11,4 +11,4 @@ Di projek kali ini saya telah sebuah website application yaitu website ramalan c
 - CSS Modules
 - React Hooks
 
-Berikut adalah preview tampilan dari website forecasting yang telah selesai saya buat.
+# 🖥Berikut adalah preview tampilan secara desktop dari website forecasting yang telah selesai saya buat.

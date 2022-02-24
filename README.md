@@ -19,3 +19,5 @@ Di projek kali ini saya telah sebuah website application yaitu website ramalan c
 
 # 📱Berikut adalah preview tampilan mobile dari website forecasting yang telah selesai saya buat.
 ![image](https://user-images.githubusercontent.com/87599499/155546452-01fae187-6d19-475c-a266-9ddb6cc0a8dd.png)
+![image](https://user-images.githubusercontent.com/87599499/155546625-774c0cb3-d7bc-43d1-9b89-c08e46a28c8d.png)
+

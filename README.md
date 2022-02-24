@@ -15,6 +15,7 @@ Di projek kali ini saya telah sebuah website application yaitu website ramalan c
 ![image](https://user-images.githubusercontent.com/87599499/155545249-831cc188-7af5-4da5-b95f-c53916cac866.png)
 ![image](https://user-images.githubusercontent.com/87599499/155546318-39d414d2-e276-4be8-adea-6c963128e5ed.png)
 ![image](https://user-images.githubusercontent.com/87599499/155546280-6a2be27e-e524-42ae-971c-adf890dd2213.png)
+![image](https://user-images.githubusercontent.com/87599499/155546774-e8545507-cafe-44b7-bbaa-4e1443913730.png)
 
 
 # 📱Berikut adalah preview tampilan mobile dari website forecasting yang telah selesai saya buat.
